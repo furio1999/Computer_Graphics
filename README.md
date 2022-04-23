@@ -4,7 +4,7 @@
 
 
 ## Description
-First Homework for the course in Computer Graphics with professor [Fabio Pellacini](https://pellacini.di.uniroma1.it/). / 
+First Homework for the course in Computer Graphics with professor [Fabio Pellacini](https://pellacini.di.uniroma1.it/). \
 Application of a raytracing algorithm to render a given scene with objects and camera poses.
 
 ## Illumination changes

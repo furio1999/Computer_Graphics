@@ -7,7 +7,7 @@
 First Homework for the course in Computer Graphics with professor [Fabio Pellacini](https://pellacini.di.uniroma1.it/). / 
 Application of a raytracing algorithm to render a given scene with objects and camera poses.
 
-## illumination changes
+## Illumination changes
 ![0x_eyelight_720_9](https://user-images.githubusercontent.com/63920397/164912576-2fd7960c-b91a-4f79-a997-42862a99c114.jpg)
 
 ## Rendering of different materials and surfaces 
